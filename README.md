@@ -49,8 +49,8 @@ Setup environment:
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/BelongsToMe091603/Human-Resource-Dashboard.git
+cd Human-Resource-Dashboard
 ```
 
 ---
