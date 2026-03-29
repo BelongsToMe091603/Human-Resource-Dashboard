@@ -109,9 +109,9 @@ Berdasarkan hasil analisis yang telah dilakukan, dapat disimpulkan bahwa tingkat
 
 Di sisi lain, faktor seperti gender menunjukkan adanya perbedaan jumlah attrition (lebih tinggi pada laki-laki), namun tidak serta merta menjadi faktor utama penentu. Variabel seperti Marital Status dan Distance from Home tidak menunjukkan pengaruh signifikan terhadap attrition, yang mengindikasikan bahwa faktor-faktor tersebut bukan prioritas utama dalam strategi retensi karyawan. Secara keseluruhan, hasil proyek ini menegaskan bahwa pendekatan berbasis data mampu mengidentifikasi faktor-faktor kunci penyebab attrition dan memberikan insight yang dapat digunakan oleh HR untuk merancang strategi retensi yang lebih efektif, seperti peningkatan kesejahteraan karyawan, pengelolaan beban kerja, serta pengembangan karier khususnya bagi karyawan pada tahap awal. Dashboard yang dibangun juga berperan penting sebagai alat monitoring berkelanjutan untuk mendukung pengambilan keputusan yang lebih cepat dan tepat.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
+Berikut beberapa rekomendasi action items yang harus dilakukan perusahaan untuk menyelesaikan permasalahan atau mencapai target:
 
 - Fokus Retensi pada Karyawan Usia Muda (25–35 tahun)
 Perusahaan disarankan untuk membuat program retensi khusus bagi karyawan usia muda yang berada pada tahap awal karier. Hal ini dapat dilakukan melalui penyediaan jalur karier yang jelas (career path), program mentoring, serta pelatihan dan pengembangan kompetensi. Karyawan pada rentang usia ini cenderung memiliki motivasi tinggi untuk berkembang, sehingga jika perusahaan mampu memfasilitasi kebutuhan tersebut, potensi mereka untuk bertahan akan meningkat.
