@@ -46,7 +46,7 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
 
 Setup environment:
 
-### 1️ Clone the Repository
+### 1️. Clone the Repository
 
 ```bash
 git clone https://github.com/BelongsToMe091603/Human-Resource-Dashboard.git
@@ -55,7 +55,7 @@ cd Human-Resource-Dashboard
 
 ---
 
-### 2️ Create a Virtual Environment (Recommended)
+### 2️. Create a Virtual Environment (Recommended)
 
 ```bash
 python -m venv venv
@@ -74,7 +74,7 @@ source venv/bin/activate
 ```
 
 ---
-### 3️ Install Dependencies
+### 3️. Install Dependencies
 
 Make sure the `requirements.txt` file is available, then run:
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ```
 
 ---
-### 4 Buat File requirements.txt
+### 4. Buat File requirements.txt
 ```bash
 pip freeze > requirements.txt
 ```
